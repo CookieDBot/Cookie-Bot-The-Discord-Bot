@@ -1,2 +1,2 @@
-# Cookie-Bot-The-Discord-Bot
-This is the site where you get redirected if you don't know the commands or perhaps want to donate to help fund the bot.
+Cookie Bot - The Discord Bot that is simple.
+This is the site where you will be re-directed if you have forgotten a command for the bot, or want to donate to help support the making of Cookie Bot. 
